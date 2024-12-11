@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealPlan.Api", "MealPlan.Api\MealPlan.Api.csproj", "{9B038A2E-5281-45DD-8FEE-26026934B634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{E476AD33-5A4E-43B7-A62D-79D3805E68A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B038A2E-5281-45DD-8FEE-26026934B634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B038A2E-5281-45DD-8FEE-26026934B634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B038A2E-5281-45DD-8FEE-26026934B634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B038A2E-5281-45DD-8FEE-26026934B634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E476AD33-5A4E-43B7-A62D-79D3805E68A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E476AD33-5A4E-43B7-A62D-79D3805E68A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E476AD33-5A4E-43B7-A62D-79D3805E68A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E476AD33-5A4E-43B7-A62D-79D3805E68A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
